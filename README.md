@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Yusufah9
-- 👀 I’m interested in ... writing 
+- 👀 I’m interested in ... languages, frameworks and industries
 - 🌱 I’m currently learning ... Data Science 
 - 💞️ I’m looking to collaborate on ... how to create mobile apps 
 - 📫 How to reach me ...via my email 
