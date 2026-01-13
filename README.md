@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Yusufah9
 - 👀 I’m interested in ... languages, frameworks and industries
-- 🌱 I’m currently learning ... Data Science 
-- 💞️ I’m looking to collaborate on ... how to create mobile apps 
+- 🌱 I’m currently learning AI Engineering 
+- 💞️ I’m looking to collaborate on any significant projects. 
 - 📫 How to reach me ...via my email 
 - 😄 Pronouns: ...me, myself and I 
 - ⚡ Fun fact: ... I love chicken 
