@@ -9,23 +9,21 @@ Hi there I'm Yusuf Umar Yaru
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I'm a Technical Venture Builder with a background in Law who transitioned into technology to build scalable software products and data-driven businesses.
 
 My work sits at the intersection of:
 
-- 💻 Software Engineering
-- 📊 Data Science & Analytics
-- 🚀 Venture Building
-- 🤖 Artificial Intelligence
-- 📈 Startup Strategy & Fundraising
+- Software Engineering
+- Data Science & Analytics
+- Venture Building
+- Artificial Intelligence
+- Startup Strategy & Fundraising
 
 I believe great companies are built by combining technical excellence with deep customer understanding and strong business fundamentals.
 
----
-
-## 🎯 Current Focus
+## Current Focus
 
 - Building production-ready software applications
 - Learning advanced Software Engineering principles
@@ -33,9 +31,7 @@ I believe great companies are built by combining technical excellence with deep 
 - Contributing to Open Source
 - Building AI-powered products for Africa
 
----
-
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Languages
 
@@ -53,9 +49,8 @@ I believe great companies are built by combining technical excellence with deep 
 - Cloud Computing
 - System Design
 
----
 
-## 🚀 Featured Projects
+## Featured Projects
 
 Coming Soon...
 
@@ -66,9 +61,8 @@ Coming Soon...
 - Startup Intelligence Tools
 - Open Source Contributions
 
----
 
-## 📚 Interests
+## Interests
 
 - Artificial Intelligence
 - Data Science
@@ -80,26 +74,12 @@ Coming Soon...
 
 ---
 
-## 📈 GitHub Stats
+## Let's Connect
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
-
----
-
-## 🌱 Philosophy
-
-> "Technology becomes meaningful when it solves real problems. My goal is not just to write code, but to build products that create lasting impact."
+- LinkedIn: YOUR_LINKEDIN
+- Portfolio: Coming Soon
+- Email: YOUR_EMAIL
 
 ---
 
-## 🤝 Let's Connect
-
-- 💼 LinkedIn: YOUR_LINKEDIN
-- 🌐 Portfolio: Coming Soon
-- 📧 Email: YOUR_EMAIL
-
----
-
-⭐ *Always learning. Always building. Always improving.*
+*Always learning. Always building. Always improving.*
