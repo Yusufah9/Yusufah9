@@ -76,9 +76,9 @@ Coming Soon...
 
 ## Let's Connect
 
-- LinkedIn: YOUR_LINKEDIN
+- LinkedIn: https://www.linkedin.com/in/yusuf-umaru/
 - Portfolio: Coming Soon
-- Email: YOUR_EMAIL
+- Email: umaruyusufyaru@gmail.com
 
 ---
 
